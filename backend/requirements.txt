@@ -1,0 +1,8 @@
+django
+djangorestframework
+pandas
+numpy
+scikit-learn
+flask
+speechrecognition
+twilio
